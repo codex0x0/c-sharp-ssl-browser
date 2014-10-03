@@ -1,0 +1,18 @@
+e:\users\klasico\documents\visual studio 2010\Projects\testSSLPrj\testSSLPrj\bin\Debug\testSSLPrj.exe
+e:\users\klasico\documents\visual studio 2010\Projects\testSSLPrj\testSSLPrj\bin\Debug\testSSLPrj.pdb
+e:\users\klasico\documents\visual studio 2010\Projects\testSSLPrj\testSSLPrj\obj\x86\Debug\ResolveAssemblyReference.cache
+e:\users\klasico\documents\visual studio 2010\Projects\testSSLPrj\testSSLPrj\obj\x86\Debug\testSSLPrj.Form1.resources
+e:\users\klasico\documents\visual studio 2010\Projects\testSSLPrj\testSSLPrj\obj\x86\Debug\testSSLPrj.Properties.Resources.resources
+e:\users\klasico\documents\visual studio 2010\Projects\testSSLPrj\testSSLPrj\obj\x86\Debug\GenerateResource.read.1.tlog
+e:\users\klasico\documents\visual studio 2010\Projects\testSSLPrj\testSSLPrj\obj\x86\Debug\GenerateResource.write.1.tlog
+e:\users\klasico\documents\visual studio 2010\Projects\testSSLPrj\testSSLPrj\obj\x86\Debug\testSSLPrj.exe
+e:\users\klasico\documents\visual studio 2010\Projects\testSSLPrj\testSSLPrj\obj\x86\Debug\testSSLPrj.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\testSSLPrj\testSSLPrj\obj\x86\Debug\testSSLPrj.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\testSSLPrj\testSSLPrj\obj\x86\Debug\testSSLPrj.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\testSSLPrj\testSSLPrj\bin\Debug\testSSLPrj.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\testSSLPrj\testSSLPrj\bin\Debug\testSSLPrj.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\testSSLPrj\testSSLPrj\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\testSSLPrj\testSSLPrj\obj\x86\Debug\testSSLPrj.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\testSSLPrj\testSSLPrj\obj\x86\Debug\testSSLPrj.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\testSSLPrj\testSSLPrj\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\testSSLPrj\testSSLPrj\obj\x86\Debug\GenerateResource.write.1.tlog
